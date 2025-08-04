@@ -1,0 +1,17 @@
+{
+  "name": "invoice_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AnonO6 <aviral.software@gmail.com> (https://aviral.software/)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "html-pdf": "^3.0.1",
+    "intl": "^1.2.5"
+  }
+}
