@@ -1194,27 +1194,27 @@ const data = {
       subitems: []
     },
     {
-      cost: "1,50,000",
-      particular: "Professional Fees on Fixed Fee Basis",
-      resourceId: "65a11fad6fe114f938d2c795",
-      resourceType: "Project",
-      originalCost: 150000,
-      subitems: []
-    },
-    {
-      cost: "75,000",
-      particular: "Contract Review and Drafting Services",
-      resourceId: "65a11fad6fe114f938d2c795",
-      resourceType: "Project",
-      originalCost: 75000,
-      subitems: []
-    },
-    {
       cost: "2,00,000",
       particular: "Comprehensive Legal Consultation Services",
       resourceId: "65a11fad6fe114f938d2c795",
       resourceType: "Project",
       originalCost: 200000,
+      subitems: []
+    },
+    {
+      cost: "50,000",
+      particular: "Court Filing and Administrative Services",
+      resourceId: "65a11fad6fe114f938d2c795",
+      resourceType: "Project",
+      originalCost: 50000,
+      subitems: []
+    },
+    {
+      cost: "50,000",
+      particular: "Court Filing and Administrative Services",
+      resourceId: "65a11fad6fe114f938d2c795",
+      resourceType: "Project",
+      originalCost: 50000,
       subitems: []
     },
     {
